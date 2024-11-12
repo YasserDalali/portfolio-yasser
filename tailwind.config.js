@@ -14,9 +14,10 @@ module.exports = {
         tertiary: "#1E3E62",
         accent: "#0B192C",
         dark: "#000000",
-        light: "#ffffff",
+        light: "#d3d4d8",
       },
       fontFamily: {
+        misc: ["Bebas Neue", "cursive"],
         minor: ["Poppins", "sans-serif"],
         major: ["Lexend Deca", "sans-serif"],
       },

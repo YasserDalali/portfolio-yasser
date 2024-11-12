@@ -8,9 +8,9 @@ export default function Marqueeribbons() {
    
       <Marquee  speed={200} autoFill={true}
         direction="right"
-        className="text-[30rem] absolute -z-0 font-major font-bold p-12"
+        className="text-[20rem] md:text-[30rem] absolute font-misc -z-0  font-bold p-12"
       >
-        &nbsp;YASSER DALALI&nbsp;
+        YASSER DALALI &nbsp;
       </Marquee>
      
   );
